@@ -1,3 +1,3 @@
 import type { Config } from 'tailwindcss'
 export default { content:['./app/**/*.tsx','./components/**/*.tsx'],
-theme:{extend:{colors:{ink:'#16181d',milk:'#faf9f6',money:'#16c25a',soft:'#f1f1ee'},borderRadius:{'3xl':'1.75rem'},boxShadow:{card:'0 8px 30px rgba(0,0,0,.06)'}}},plugins:[] } satisfies Config
+theme:{extend:{colors:{ink:'#101828',milk:'#f4f7fc',money:'#12b76a',soft:'#eef2f9',brand:'#2563eb'},boxShadow:{card:'0 2px 12px rgba(30,64,120,.06)'}}},plugins:[] } satisfies Config
